@@ -8,7 +8,7 @@ Explain the problem statement
 
 ## Neural Network Model
 Include the neural network model diagram.
-
+<img width="390" height="568" alt="image" src="https://github.com/chandru8428/Developing-a-Neural-Network-Regression-Model/blob/main/Screenshot_20260611-135047.png" />
 ## DESIGN STEPS
 ### STEP 1: 
 
